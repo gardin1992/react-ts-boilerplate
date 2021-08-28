@@ -1,9 +1,7 @@
-import React from "react";
-
-function App(): React.ReactElement {
+export function App() {
   return (
     <div className="App">
-      <h1>App</h1>
+      <h1>Hello World!</h1>
     </div>
   );
 }
