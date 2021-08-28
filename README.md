@@ -18,3 +18,6 @@ Verificar as regras do lint
 
 Iniciar o Storybook
 `yarn storybook`
+
+Iniciar os testes
+`yarn storybook`
